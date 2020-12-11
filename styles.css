@@ -1,0 +1,14 @@
+#welcome{
+    text-align: center;
+}
+
+#box { 
+    padding: 0% ;
+    white-space: normal;
+    align-items: center;
+}
+
+#btn { 
+    align-items: flex-start;
+}
+
